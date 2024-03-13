@@ -15,6 +15,9 @@ ol,
 ul{
     list-style: none;
 }
+.greeting{
+  color: #5d2d97;
+}
 a{
     text-decoration: none;
 }
